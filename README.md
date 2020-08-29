@@ -6,7 +6,9 @@ Remove this line before submitting : To Refer a filled sample of this template v
 <b>Discipline | <b> Computer Science and Engineering
 :--|:--|
 <b> Lab | <b> Software Engineering
-<b> Experiment|     <b> 1. (KCS-651) Draw the collaboration diagram.2. (KCS-651) Draw the state chart diagram.3. (KCS-651) Draw the component diagram.
+<b> Experiment|     <b> 1. (KCS-651) Draw the collaboration diagram.
+	2. (KCS-651) Draw the state chart diagram.
+	3. (KCS-651) Draw the component diagram.
 
 <h5> About the Lab : </h5>
 
